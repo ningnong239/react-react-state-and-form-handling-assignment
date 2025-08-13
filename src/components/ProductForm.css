@@ -1,0 +1,7 @@
+.error-button {
+    background-color: hsl(0, 60%, 35%);
+    width: fit-content;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
